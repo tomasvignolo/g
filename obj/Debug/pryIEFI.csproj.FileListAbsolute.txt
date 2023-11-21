@@ -1,0 +1,33 @@
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\bin\Debug\pryIEFI.exe.config
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\bin\Debug\pryIEFI.exe
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\bin\Debug\pryIEFI.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.csproj.AssemblyReference.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmAgregar_2_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmBuscar_3_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmConsultar.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmPrincipal.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmSociosActividad_7_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmSociosBarrio_8_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.Properties.Resources.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.csproj.GenerateResource.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.exe
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmDesarrolador.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmListarTodos.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryIEFI\obj\Debug\pryIEFI.frmSociosDeudores.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.csproj.AssemblyReference.cache
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmAgregar_2_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmBuscar_3_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmConsultar.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmDesarrolador.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmPrincipal.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmListarTodos.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmSociosActividad_7_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmSociosBarrio_8_.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.frmSociosDeudores.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.csproj.GenerateResource.cache
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.exe
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 2\Laboratorio de programación II\pryIEFI\obj\Debug\pryIEFI.pdb
